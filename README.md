@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moaaz! <br/><a href="https://github.com/joshmadakor1">Looking for work</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Moaaz! <a href="https://www.linkedin.com/in/joshmadakor/">A Cybersecurity Enthusiast looking for work</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
