@@ -5,12 +5,12 @@
 - <b>Cloud Security</b>
   - [ELK Stack (Elastic, Logstash, Kibana)](https://github.com/moaazcybertest/ELK-Stack-Project)
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Home Lab]()
+  - [FIM (File Integrity Monitor)](https://github.com/moaazcybertest/Powershell-Integrity-FIM)
 - <b>Penetration Testing</b>
   - [Vulnerability Testing (Attack vs. Defense)](https://github.com/moaazcybertest/Red-Team-vs.-Blue-Team)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Information Security(Creating a TCP Server)]()
 
 <h2>🎓 Certifications</h2>
 
