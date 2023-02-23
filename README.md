@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cloud Security</b>
-  - [ELK Stack (Elastic, Logstash, Kibana)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ELK Stack (Elastic, Logstash, Kibana)](https://github.com/moaazcybertest/ELK-Stack-Project)
 - <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
