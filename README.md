@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moaaz! <a href="https://www.linkedin.com/in/moaaz-niazi-4889ba182/">A Cybersecurity Enthusiast looking for work</a>
+<h1>Hi, I'm Mo! <a href="https://www.linkedin.com/in/moaaz-niazi-4889ba182/">A Cybersecurity Enthusiast looking for work</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
